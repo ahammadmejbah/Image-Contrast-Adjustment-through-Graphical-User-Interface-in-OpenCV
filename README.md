@@ -1,0 +1,2 @@
+# Image-Contrast-Adjustment-through-Graphical-User-Interface-in-OpenCV
+The difference in brightness or color between two different aspects of an item that serves to differentiate the two aspects is referred to as contrast. The difference in color and brightness between one item and other things that are within the same field of vision is what determines contrast in the visual sense of the actual world.
